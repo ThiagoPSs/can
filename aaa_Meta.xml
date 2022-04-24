@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StudioProjectMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" PresetVersion="1">
+  <StudioAssetMetas>
+    <StudioAssetMeta>
+      <Name>atv1</Name>
+      <MixerXMLPath>D:\DESENHOS PARA PRATICAR\aaaaa\Projects\aaa\atv1\atv1.xml</MixerXMLPath>
+      <MixerVersion>2021.1.3</MixerVersion>
+      <MixPresetVersion>15</MixPresetVersion>
+      <SaveTime>2022-04-24T20:33:18.5726789-03:00</SaveTime>
+    </StudioAssetMeta>
+  </StudioAssetMetas>
+</StudioProjectMetaData>
